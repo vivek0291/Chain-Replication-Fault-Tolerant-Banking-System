@@ -1,6 +1,4 @@
-
 // ONLY Queries processed here, updates processed elsewhere
-
 import java.io.*;
 import java.net.*;
 

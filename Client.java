@@ -35,7 +35,7 @@ public class Client
         rec.start();
         
      
-    }//end of main()
+    }
     
 }//end of class Client
 
